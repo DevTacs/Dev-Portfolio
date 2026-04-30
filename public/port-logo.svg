@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#0B0F19"></rect>
+
+  <text x="50" y="55" text-anchor="middle" font-size="42" font-family="Arial, sans-serif" fill="#3B82F6" font-weight="bold">
+    RT
+  </text>
+</svg>
