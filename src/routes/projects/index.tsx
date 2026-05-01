@@ -27,8 +27,8 @@ function RouteComponent() {
 
                     {/* DESCRIPTION */}
                     <p className="text-gray-400 text-sm mt-2">
-                        A real-time watch-together platform where users can
-                        watch videos in sync with others in shared rooms.
+                        An anime streaming platform where users can watch videos
+                        of their favorite animes and bookmark them for later.
                     </p>
 
                     {/* FEATURES + TECH */}
