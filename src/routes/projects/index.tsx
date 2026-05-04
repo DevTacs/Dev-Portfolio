@@ -28,7 +28,8 @@ function RouteComponent() {
                     {/* DESCRIPTION */}
                     <p className="text-gray-400 text-sm mt-2">
                         An anime streaming platform where users can watch videos
-                        of their favorite animes and bookmark them for later.
+                        of their favorite animes together with their friends,
+                        love ones and bookmark them for later.
                     </p>
 
                     {/* FEATURES + TECH */}
@@ -38,10 +39,12 @@ function RouteComponent() {
                                 Features
                             </h4>
                             <ul className="list-disc list-inside text-gray-400 space-y-1">
+                                <li>OAuth (Google + local authentication)</li>
+                                <li>Search for animes</li>
+                                <li>Bookmark anime</li>
                                 <li>Responsive UI for mobile and desktop</li>
                                 <li>Video embedding via external API</li>
-                                <li>OAuth (Google + local authentication)</li>
-                                <li>Bookmark anime</li>
+                                <li>Watch together via invitation links</li>
                             </ul>
                         </div>
 
