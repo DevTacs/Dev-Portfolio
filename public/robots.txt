@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-portfolio-j1eb.onrender.com/sitemap.xml
